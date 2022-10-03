@@ -1,0 +1,65 @@
+
+
+# cafe_menu=[
+# {
+# "type":"appetizers",
+# "items":["wings","cookies","spring rolls"]
+# },
+# {
+# "type":"entrees",
+# "items":["salmon","steak","meat trando","A literal garden"]
+# },
+# {
+# "type":"desserts",
+# "items":["ice cream","cake","pie"]
+# },
+# {
+# "type":"drinks",
+# "items":["coffe","tea","unicorn tears"]
+# },
+
+# ]
+
+# # resturnt=cafe_menu[0]
+# # items=resturnt["items"]
+# # type=resturnt["type"]
+# # print(type+"\n ---------")
+# # for i in resturnt:
+# #          print (i)
+
+# print(len(cafe_menu))
+# def show_menu(index):
+#     menu=cafe_menu[index]
+#     type=menu["type"]
+#     items=menu["items"]
+#     print(type)
+#     for i in  range(len(type)):
+#         print("_" ,end="")
+#     print("\n")   
+#     for i in items:
+#         print(i)
+
+#     if index>len(menu):
+#         print("welcome")
+               
+          
+# def order_now():
+#     print("welllllllllllllcomep")
+
+# if __name__=="__main__":
+#     cnt=0 
+#     while True:
+        
+#         show_menu(cnt)
+        
+       
+
+#         cnt+=1
+       
+       
+#         if cnt >= len(cafe_menu):
+          
+#             break
+           
+
+
